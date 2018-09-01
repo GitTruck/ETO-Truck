@@ -69,7 +69,7 @@
         <div class="col-md-4">
           <h2>SIG File Database</h2>
           <p>Important files and confidential information</p>
-          <p><a class="btn btn-default" href="file-database.html" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="database" role="button">View details &raquo;</a></p>
        </div>
         <div class="col-md-4">
           <h2>Tom's Mining Program</h2>
