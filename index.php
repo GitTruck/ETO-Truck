@@ -7,12 +7,7 @@ switch($requestPath) {
     echo 'Vroom' . PHP_EOL; 
     break;
     
-  case '/database':
-    echo 'You have entered the database.' . PHP_EOL;
-    break;
-    
   default:
-    
     if(contentPageExists($requestPath)){
       include 'content' . $requestPath . '.php';
     }
