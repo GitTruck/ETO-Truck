@@ -62,9 +62,9 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-4">
-          <h2>SIG Details</h2>
+          <h2>SIG Members</h2>
           <p>New operations and missions from the SIG.</p>
-          <p><a class="btn btn-default" href="details.html" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="members.php" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>SIG File Database</h2>
@@ -81,7 +81,7 @@
       <hr>
 
       <footer>
-        <p>&copy; SIG 2017</p>
+        <p>&copy; SIG 2018</p>
       </footer>
     </div> <!-- /container -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
